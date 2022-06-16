@@ -1,0 +1,37 @@
+nav ul {
+    list-style: none;
+    position: relative;
+}
+nav ul li {
+    display:inline-block;
+    background-color: #FFF;
+}
+
+nav a {
+    display:block;
+    padding:10px;
+    color:#FFF;
+    font-size:20px;
+    text-decoration:none;
+}
+
+/* nav a:hover {
+    background-color: #1961e6;
+} */
+
+nav ul ul {
+    display: none;
+    position: absolute;
+    top: 100%;
+    z-index: 100;
+}
+
+nav ul li:hover > ul {
+    display:inherit;
+}
+
+nav ul ul li {
+    min-width:170px;
+    display:list-item;
+    position: relative;
+}
