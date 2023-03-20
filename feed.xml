@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://atmyre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://atmyre.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-03-20T20:21:49+00:00</updated><id>https://atmyre.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://atmyre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://atmyre.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-03-20T20:23:30+00:00</updated><id>https://atmyre.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">a post with giscus comments</title><link href="https://atmyre.github.io/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://atmyre.github.io/blog/2022/giscus-comments</id><content type="html" xml:base="https://atmyre.github.io/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://atmyre.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T23:20:09+00:00</published><updated>2022-04-23T23:20:09+00:00</updated><id>https://atmyre.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://atmyre.github.io/blog/2022/displaying-external-posts-on-your-al-folio-blog/"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">a post with redirect</title><link href="https://atmyre.github.io/blog/2022/redirect/" rel="alternate" type="text/html" title="a post with redirect" /><published>2022-02-01T17:39:00+00:00</published><updated>2022-02-01T17:39:00+00:00</updated><id>https://atmyre.github.io/blog/2022/redirect</id><content type="html" xml:base="https://atmyre.github.io/blog/2022/redirect/"><![CDATA[<p>Redirecting to another page.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[you can also redirect to assets like pdf]]></summary></entry><entry><title type="html">a post with diagrams</title><link href="https://atmyre.github.io/blog/2021/diagrams/" rel="alternate" type="text/html" title="a post with diagrams" /><published>2021-07-04T17:39:00+00:00</published><updated>2021-07-04T17:39:00+00:00</updated><id>https://atmyre.github.io/blog/2021/diagrams</id><content type="html" xml:base="https://atmyre.github.io/blog/2021/diagrams/"><![CDATA[<p>This theme supports generating various diagrams from a text description using <a href="https://github.com/zhustec/jekyll-diagrams" target="\_blank">jekyll-diagrams</a> plugin.
 Below, we generate a few examples of such diagrams using languages such as <a href="https://mermaid-js.github.io/mermaid/" target="\_blank">mermaid</a>, <a href="https://plantuml.com/" target="\_blank">plantuml</a>, <a href="https://vega.github.io/vega-lite/" target="\_blank">vega-lite</a>, etc.</p>
 
@@ -24,7 +24,7 @@ sequenceDiagram
 </code></pre></div></div>
 
 <div class="jekyll-diagrams diagrams mermaid">
-  <svg id="mermaid-1679343717764" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1679343717764 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1679343717764 .node circle,#mermaid-1679343717764 .node ellipse,#mermaid-1679343717764 .node polygon,#mermaid-1679343717764 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1679343717764 .node.clickable{cursor:pointer}#mermaid-1679343717764 .arrowheadPath{fill:#333}#mermaid-1679343717764 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1679343717764 .edgeLabel{background-color:#e8e8e8}#mermaid-1679343717764 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1679343717764 .cluster text{fill:#333}#mermaid-1679343717764 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1679343717764 .actor{stroke:#ccf;fill:#ececff}#mermaid-1679343717764 text.actor{fill:#000;stroke:none}#mermaid-1679343717764 .actor-line{stroke:grey}#mermaid-1679343717764 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1679343717764 .messageLine0,#mermaid-1679343717764 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1679343717764 #arrowhead{fill:#333}#mermaid-1679343717764 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1679343717764 .messageText{fill:#333;stroke:none}#mermaid-1679343717764 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1679343717764 .labelText,#mermaid-1679343717764 .loopText{fill:#000;stroke:none}#mermaid-1679343717764 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1679343717764 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1679343717764 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1679343717764 .section{stroke:none;opacity:.2}#mermaid-1679343717764 .section0{fill:rgba(102,102,255,.49)}#mermaid-1679343717764 .section2{fill:#fff400}#mermaid-1679343717764 .section1,#mermaid-1679343717764 .section3{fill:#fff;opacity:.2}#mermaid-1679343717764 .sectionTitle0,#mermaid-1679343717764 .sectionTitle1,#mermaid-1679343717764 .sectionTitle2,#mermaid-1679343717764 .sectionTitle3{fill:#333}#mermaid-1679343717764 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1679343717764 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1679343717764 .grid path{stroke-width:0}#mermaid-1679343717764 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1679343717764 .task{stroke-width:2}#mermaid-1679343717764 .taskText{text-anchor:middle;font-size:11px}#mermaid-1679343717764 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1679343717764 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1679343717764 .taskText0,#mermaid-1679343717764 .taskText1,#mermaid-1679343717764 .taskText2,#mermaid-1679343717764 .taskText3{fill:#fff}#mermaid-1679343717764 .task0,#mermaid-1679343717764 .task1,#mermaid-1679343717764 .task2,#mermaid-1679343717764 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1679343717764 .taskTextOutside0,#mermaid-1679343717764 .taskTextOutside1,#mermaid-1679343717764 .taskTextOutside2,#mermaid-1679343717764 .taskTextOutside3{fill:#000}#mermaid-1679343717764 .active0,#mermaid-1679343717764 .active1,#mermaid-1679343717764 .active2,#mermaid-1679343717764 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1679343717764 .activeText0,#mermaid-1679343717764 .activeText1,#mermaid-1679343717764 .activeText2,#mermaid-1679343717764 .activeText3{fill:#000!important}#mermaid-1679343717764 .done0,#mermaid-1679343717764 .done1,#mermaid-1679343717764 .done2,#mermaid-1679343717764 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1679343717764 .doneText0,#mermaid-1679343717764 .doneText1,#mermaid-1679343717764 .doneText2,#mermaid-1679343717764 .doneText3{fill:#000!important}#mermaid-1679343717764 .crit0,#mermaid-1679343717764 .crit1,#mermaid-1679343717764 .crit2,#mermaid-1679343717764 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1679343717764 .activeCrit0,#mermaid-1679343717764 .activeCrit1,#mermaid-1679343717764 .activeCrit2,#mermaid-1679343717764 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1679343717764 .doneCrit0,#mermaid-1679343717764 .doneCrit1,#mermaid-1679343717764 .doneCrit2,#mermaid-1679343717764 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1679343717764 .activeCritText0,#mermaid-1679343717764 .activeCritText1,#mermaid-1679343717764 .activeCritText2,#mermaid-1679343717764 .activeCritText3,#mermaid-1679343717764 .doneCritText0,#mermaid-1679343717764 .doneCritText1,#mermaid-1679343717764 .doneCritText2,#mermaid-1679343717764 .doneCritText3{fill:#000!important}#mermaid-1679343717764 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1679343717764 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1679343717764 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1679343717764 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1679343717764 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1679343717764 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1679343717764 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1679343717764 #compositionEnd,#mermaid-1679343717764 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1679343717764 #aggregationEnd,#mermaid-1679343717764 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1679343717764 #dependencyEnd,#mermaid-1679343717764 #dependencyStart,#mermaid-1679343717764 #extensionEnd,#mermaid-1679343717764 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1679343717764 .branch-label,#mermaid-1679343717764 .commit-id,#mermaid-1679343717764 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1679343717764 {
+  <svg id="mermaid-1679343818508" width="100%" xmlns="http://www.w3.org/2000/svg" height="100%" style="max-width:450px;" viewBox="-50 -10 450 231"><style>#mermaid-1679343818508 .label{font-family:trebuchet ms,verdana,arial;color:#333}#mermaid-1679343818508 .node circle,#mermaid-1679343818508 .node ellipse,#mermaid-1679343818508 .node polygon,#mermaid-1679343818508 .node rect{fill:#ececff;stroke:#9370db;stroke-width:1px}#mermaid-1679343818508 .node.clickable{cursor:pointer}#mermaid-1679343818508 .arrowheadPath{fill:#333}#mermaid-1679343818508 .edgePath .path{stroke:#333;stroke-width:1.5px}#mermaid-1679343818508 .edgeLabel{background-color:#e8e8e8}#mermaid-1679343818508 .cluster rect{fill:#ffffde!important;stroke:#aa3!important;stroke-width:1px!important}#mermaid-1679343818508 .cluster text{fill:#333}#mermaid-1679343818508 div.mermaidTooltip{position:absolute;text-align:center;max-width:200px;padding:2px;font-family:trebuchet ms,verdana,arial;font-size:12px;background:#ffffde;border:1px solid #aa3;border-radius:2px;pointer-events:none;z-index:100}#mermaid-1679343818508 .actor{stroke:#ccf;fill:#ececff}#mermaid-1679343818508 text.actor{fill:#000;stroke:none}#mermaid-1679343818508 .actor-line{stroke:grey}#mermaid-1679343818508 .messageLine0{marker-end:"url(#arrowhead)"}#mermaid-1679343818508 .messageLine0,#mermaid-1679343818508 .messageLine1{stroke-width:1.5;stroke-dasharray:"2 2";stroke:#333}#mermaid-1679343818508 #arrowhead{fill:#333}#mermaid-1679343818508 #crosshead path{fill:#333!important;stroke:#333!important}#mermaid-1679343818508 .messageText{fill:#333;stroke:none}#mermaid-1679343818508 .labelBox{stroke:#ccf;fill:#ececff}#mermaid-1679343818508 .labelText,#mermaid-1679343818508 .loopText{fill:#000;stroke:none}#mermaid-1679343818508 .loopLine{stroke-width:2;stroke-dasharray:"2 2";marker-end:"url(#arrowhead)";stroke:#ccf}#mermaid-1679343818508 .note{stroke:#aa3;fill:#fff5ad}#mermaid-1679343818508 .noteText{fill:#000;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:14px}#mermaid-1679343818508 .section{stroke:none;opacity:.2}#mermaid-1679343818508 .section0{fill:rgba(102,102,255,.49)}#mermaid-1679343818508 .section2{fill:#fff400}#mermaid-1679343818508 .section1,#mermaid-1679343818508 .section3{fill:#fff;opacity:.2}#mermaid-1679343818508 .sectionTitle0,#mermaid-1679343818508 .sectionTitle1,#mermaid-1679343818508 .sectionTitle2,#mermaid-1679343818508 .sectionTitle3{fill:#333}#mermaid-1679343818508 .sectionTitle{text-anchor:start;font-size:11px;text-height:14px}#mermaid-1679343818508 .grid .tick{stroke:#d3d3d3;opacity:.3;shape-rendering:crispEdges}#mermaid-1679343818508 .grid path{stroke-width:0}#mermaid-1679343818508 .today{fill:none;stroke:red;stroke-width:2px}#mermaid-1679343818508 .task{stroke-width:2}#mermaid-1679343818508 .taskText{text-anchor:middle;font-size:11px}#mermaid-1679343818508 .taskTextOutsideRight{fill:#000;text-anchor:start;font-size:11px}#mermaid-1679343818508 .taskTextOutsideLeft{fill:#000;text-anchor:end;font-size:11px}#mermaid-1679343818508 .taskText0,#mermaid-1679343818508 .taskText1,#mermaid-1679343818508 .taskText2,#mermaid-1679343818508 .taskText3{fill:#fff}#mermaid-1679343818508 .task0,#mermaid-1679343818508 .task1,#mermaid-1679343818508 .task2,#mermaid-1679343818508 .task3{fill:#8a90dd;stroke:#534fbc}#mermaid-1679343818508 .taskTextOutside0,#mermaid-1679343818508 .taskTextOutside1,#mermaid-1679343818508 .taskTextOutside2,#mermaid-1679343818508 .taskTextOutside3{fill:#000}#mermaid-1679343818508 .active0,#mermaid-1679343818508 .active1,#mermaid-1679343818508 .active2,#mermaid-1679343818508 .active3{fill:#bfc7ff;stroke:#534fbc}#mermaid-1679343818508 .activeText0,#mermaid-1679343818508 .activeText1,#mermaid-1679343818508 .activeText2,#mermaid-1679343818508 .activeText3{fill:#000!important}#mermaid-1679343818508 .done0,#mermaid-1679343818508 .done1,#mermaid-1679343818508 .done2,#mermaid-1679343818508 .done3{stroke:grey;fill:#d3d3d3;stroke-width:2}#mermaid-1679343818508 .doneText0,#mermaid-1679343818508 .doneText1,#mermaid-1679343818508 .doneText2,#mermaid-1679343818508 .doneText3{fill:#000!important}#mermaid-1679343818508 .crit0,#mermaid-1679343818508 .crit1,#mermaid-1679343818508 .crit2,#mermaid-1679343818508 .crit3{stroke:#f88;fill:red;stroke-width:2}#mermaid-1679343818508 .activeCrit0,#mermaid-1679343818508 .activeCrit1,#mermaid-1679343818508 .activeCrit2,#mermaid-1679343818508 .activeCrit3{stroke:#f88;fill:#bfc7ff;stroke-width:2}#mermaid-1679343818508 .doneCrit0,#mermaid-1679343818508 .doneCrit1,#mermaid-1679343818508 .doneCrit2,#mermaid-1679343818508 .doneCrit3{stroke:#f88;fill:#d3d3d3;stroke-width:2;cursor:pointer;shape-rendering:crispEdges}#mermaid-1679343818508 .activeCritText0,#mermaid-1679343818508 .activeCritText1,#mermaid-1679343818508 .activeCritText2,#mermaid-1679343818508 .activeCritText3,#mermaid-1679343818508 .doneCritText0,#mermaid-1679343818508 .doneCritText1,#mermaid-1679343818508 .doneCritText2,#mermaid-1679343818508 .doneCritText3{fill:#000!important}#mermaid-1679343818508 .titleText{text-anchor:middle;font-size:18px;fill:#000}#mermaid-1679343818508 g.classGroup text{fill:#9370db;stroke:none;font-family:trebuchet ms,verdana,arial;font-size:10px}#mermaid-1679343818508 g.classGroup rect{fill:#ececff;stroke:#9370db}#mermaid-1679343818508 g.classGroup line{stroke:#9370db;stroke-width:1}#mermaid-1679343818508 .classLabel .box{stroke:none;stroke-width:0;fill:#ececff;opacity:.5}#mermaid-1679343818508 .classLabel .label{fill:#9370db;font-size:10px}#mermaid-1679343818508 .relation{stroke:#9370db;stroke-width:1;fill:none}#mermaid-1679343818508 #compositionEnd,#mermaid-1679343818508 #compositionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1679343818508 #aggregationEnd,#mermaid-1679343818508 #aggregationStart{fill:#ececff;stroke:#9370db;stroke-width:1}#mermaid-1679343818508 #dependencyEnd,#mermaid-1679343818508 #dependencyStart,#mermaid-1679343818508 #extensionEnd,#mermaid-1679343818508 #extensionStart{fill:#9370db;stroke:#9370db;stroke-width:1}#mermaid-1679343818508 .branch-label,#mermaid-1679343818508 .commit-id,#mermaid-1679343818508 .commit-msg{fill:#d3d3d3;color:#d3d3d3}</style><style>#mermaid-1679343818508 {
     color: rgb(0, 0, 0);
     font: normal normal 400 normal 16px / normal "Times New Roman";
   }</style><g></g><g><line id="actor0" x1="75" y1="5" x2="75" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="0" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><line id="actor1" x1="275" y1="5" x2="275" y2="220" class="actor-line" stroke-width="0.5px" stroke="#999"></line><rect x="200" y="0" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="32.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g><defs><marker id="arrowhead" refX="5" refY="2" markerWidth="6" markerHeight="4" orient="auto"><path d="M 0,0 V 4 L6,2 Z"></path></marker></defs><defs><marker id="crosshead" markerWidth="15" markerHeight="8" orient="auto" refX="16" refY="4"><path fill="black" stroke="#000000" stroke-width="1px" d="M 9,2 V 6 L16,4 Z" style="stroke-dasharray: 0, 0;"></path><path fill="none" stroke="#000000" stroke-width="1px" d="M 0,1 L 6,7 M 6,1 L 0,7" style="stroke-dasharray: 0, 0;"></path></marker></defs><g><text x="175" y="93" class="messageText" style="text-anchor: middle;">Hello John, how are you?</text><line x1="275" y1="100" x2="75" y2="100" class="messageLine0" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="fill: none;"></line></g><g><text x="175" y="128" class="messageText" style="text-anchor: middle;">Great!</text><line x1="75" y1="135" x2="275" y2="135" class="messageLine1" stroke-width="2" stroke="black" marker-end="url(#arrowhead)" style="stroke-dasharray: 3, 3; fill: none;"></line></g><g><rect x="0" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="75" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="75" dy="0">John</tspan></text></g><g><rect x="200" y="155" fill="#eaeaea" stroke="#666" width="150" height="65" rx="3" ry="3" class="actor"></rect><text x="275" y="187.5" dominant-baseline="central" alignment-baseline="central" class="actor" style="text-anchor: middle;"><tspan x="275" dy="0">Alice</tspan></text></g></svg>
@@ -338,22 +338,7 @@ This line is only separated by a single newline, so it’s a separate line in th
   <li>BaseURL :</li>
   <li>Archived :</li>
   <li>Contributors :</li>
-</ul>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[a quick run down on accessing github metadata.]]></summary></entry><entry><title type="html">a post with twitter</title><link href="https://atmyre.github.io/blog/2020/twitter/" rel="alternate" type="text/html" title="a post with twitter" /><published>2020-09-28T15:12:00+00:00</published><updated>2020-09-28T15:12:00+00:00</updated><id>https://atmyre.github.io/blog/2020/twitter</id><content type="html" xml:base="https://atmyre.github.io/blog/2020/twitter/"><![CDATA[<p>A sample blog page that demonstrates the inclusion of Tweets/Timelines/etc.</p>
-
-<h1 id="tweet">Tweet</h1>
-<p>An example of displaying a tweet:</p>
-<div class="jekyll-twitter-plugin"><blockquote class="twitter-tweet"><p lang="sv" dir="ltr">jekyll-twitter-plugin (1.0.0): A Liquid tag plugin for Jekyll that renders Tweets from Twitter API <a href="http://t.co/m4EIQPM9h4">http://t.co/m4EIQPM9h4</a></p>&mdash; RubyGems (@rubygems) <a href="https://twitter.com/rubygems/status/518821243320287232?ref_src=twsrc%5Etfw">October 5, 2014</a></blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<h1 id="timeline">Timeline</h1>
-<p>An example of pulling from a timeline:</p>
-<div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-tweet-limit="3" href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw">Tweets by jekyllrb</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-
-<h1 id="additional-details">Additional Details</h1>
-<p>For more details on using the plugin visit: <a href="https://github.com/rob-murray/jekyll-twitter-plugin">jekyll-twitter-plugin</a></p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><category term="formatting" /><summary type="html"><![CDATA[an example of a blog post with twitter]]></summary></entry><entry><title type="html">a post with disqus comments</title><link href="https://atmyre.github.io/blog/2015/disqus-comments/" rel="alternate" type="text/html" title="a post with disqus comments" /><published>2015-10-20T15:59:00+00:00</published><updated>2015-10-20T15:59:00+00:00</updated><id>https://atmyre.github.io/blog/2015/disqus-comments</id><content type="html" xml:base="https://atmyre.github.io/blog/2015/disqus-comments/"><![CDATA[<p>This post shows how to add DISQUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with disqus comments]]></summary></entry><entry><title type="html">a post with math</title><link href="https://atmyre.github.io/blog/2015/math/" rel="alternate" type="text/html" title="a post with math" /><published>2015-10-20T15:12:00+00:00</published><updated>2015-10-20T15:12:00+00:00</updated><id>https://atmyre.github.io/blog/2015/math</id><content type="html" xml:base="https://atmyre.github.io/blog/2015/math/"><![CDATA[<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine. You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>. If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
+</ul>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[a quick run down on accessing github metadata.]]></summary></entry><entry><title type="html">a post with disqus comments</title><link href="https://atmyre.github.io/blog/2015/disqus-comments/" rel="alternate" type="text/html" title="a post with disqus comments" /><published>2015-10-20T15:59:00+00:00</published><updated>2015-10-20T15:59:00+00:00</updated><id>https://atmyre.github.io/blog/2015/disqus-comments</id><content type="html" xml:base="https://atmyre.github.io/blog/2015/disqus-comments/"><![CDATA[<p>This post shows how to add DISQUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with disqus comments]]></summary></entry><entry><title type="html">a post with math</title><link href="https://atmyre.github.io/blog/2015/math/" rel="alternate" type="text/html" title="a post with math" /><published>2015-10-20T15:12:00+00:00</published><updated>2015-10-20T15:12:00+00:00</updated><id>https://atmyre.github.io/blog/2015/math</id><content type="html" xml:base="https://atmyre.github.io/blog/2015/math/"><![CDATA[<p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine. You just need to surround your math expression with <code class="language-plaintext highlighter-rouge">$$</code>, like <code class="language-plaintext highlighter-rouge">$$ E = mc^2 $$</code>. If you leave it inside a paragraph, it will produce an inline expression, just like \(E = mc^2\).</p>
 
 <p>To use display mode, again surround your expression with <code class="language-plaintext highlighter-rouge">$$</code> and place it as a separate paragraph. Here is an example:</p>
 
@@ -441,4 +426,147 @@ Produces something like this:</p>
 
     <span class="k">return</span> <span class="mi">0</span><span class="p">;</span>
 <span class="p">}</span>
-</pre></td></tr></tbody></table></code></pre></figure>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="code" /><summary type="html"><![CDATA[an example of a blog post with some code]]></summary></entry></feed>
+</pre></td></tr></tbody></table></code></pre></figure>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="code" /><summary type="html"><![CDATA[an example of a blog post with some code]]></summary></entry><entry><title type="html">a post with images</title><link href="https://atmyre.github.io/blog/2015/images/" rel="alternate" type="text/html" title="a post with images" /><published>2015-05-15T21:01:00+00:00</published><updated>2015-05-15T21:01:00+00:00</updated><id>https://atmyre.github.io/blog/2015/images</id><content type="html" xml:base="https://atmyre.github.io/blog/2015/images/"><![CDATA[<p>This is an example post with image galleries.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/9-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/9-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/9-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/9.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/7-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/7-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/7-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/7.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between image rows, after each row, or doesn't have to be there at all.
+</div>
+
+<p>Images can be made zoomable.
+Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</code> to <code class="language-plaintext highlighter-rouge">&lt;img&gt;</code> tags that you want to make zoomable.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/8-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/8-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/8-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/8.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/10-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/10-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/10-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/10.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>
+
+<p>The rest of the images in this post are all zoomable, arranged into different mini-galleries.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/11-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/11-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/11-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/11.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/12-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/12-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/12-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/12.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/7-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/7-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/7-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/7.jpg" class="img-fluid rounded z-depth-1" width="auto" height="auto" data-zoomable="" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+    </div>
+</div>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="images" /><summary type="html"><![CDATA[this is what included images could look like]]></summary></entry></feed>
