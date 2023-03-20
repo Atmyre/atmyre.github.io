@@ -14,13 +14,20 @@ profile:
     <p>London, United Kingdom</p>
 
 social: true  # includes social icons at the bottom of the page
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hey! 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a PhD student at Digital Environment Research Institute (Queen Mary University of London), supervised by Prof. [Gregory Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/) and Dr. [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html). My work is supported by [DeepMind studentship](https://www.deepmind.com/education). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests mostly include computer vision, diffusion models, explainability and knowledge extraction. I am also interested in fundamental topics of deep learning, such as optimization, structural representation in neural networks and robustness.
+
+Previously, I obtained my Bachelor's degree in Applied Mathematics from Moscow Institute of Physics and Technology (MIPT) and Master's degrees in Data Analysis from Moscow Institute of Physics and Technology and Yandex School of Data Analysis (YSDA). After graduation I worked as an AI researcher at Huawei Russian Research Institute and Philips Innovation Labs. 
+
+I have rich experience in teaching machine learning and deep learning courses. I am a founding member, methodologist and lecturer of Deep Learning School (MIPT). Additionally, I teach classes at Moscow State University, Moscow Institute of Physics and Technology and other places (visit 'teaching' page for more info). 
+
+In my spare time a enjoy reading, walking, doing fitness, playing voleyball and spending time with friends. I am also really interested in neurobiology, phychology and connections between them and ideas of AI models. 
+
