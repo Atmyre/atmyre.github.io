@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: **AI Researcher**, PhD @ Digital Environment Research Institute, Queen Mary University of London
+subtitle: AI Researcher, PhD @ Digital Environment Research Institute, Queen Mary University of London
 London, United Kingdom
 
 profile:
