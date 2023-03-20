@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. PhD @ Digital Environment Research Institute, Queen Mary University of London
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>t.gaintseva@qmul.ac.uk</p>
+    <p>+44 7597242185</p>
+    <p>London, United Kingdom</p>
 
 social: true  # includes social icons at the bottom of the page
 news: true  # includes a list of news items
