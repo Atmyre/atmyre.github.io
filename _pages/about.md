@@ -3,15 +3,13 @@ layout: about
 title: about
 permalink: /
 subtitle: **AI Researcher**, PhD @ Digital Environment Research Institute, Queen Mary University of London
+London, United Kingdom
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>t.gaintseva@qmul.ac.uk</p>
-    <p>+44 7597242185</p>
-    <p>London, United Kingdom</p>
 
 social: true  # includes social icons at the bottom of the page
 news: false  # includes a list of news items
