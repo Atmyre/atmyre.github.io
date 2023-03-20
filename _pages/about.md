@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. PhD @ Digital Environment Research Institute, Queen Mary University of London
+subtitle: PhD @ Digital Environment Research Institute, Queen Mary University of London
 
 profile:
   align: right
