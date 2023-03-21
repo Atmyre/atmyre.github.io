@@ -12,19 +12,19 @@
   contents:
     - Computer vision, diffusion models, explainability, structure representation, knowledge extraction
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: Queen Mary University of London, London, United Kingdom
-      year: Nov. 2022 - present
-      description: DeepMind Studentship
-      Thesis title — Semantic Control in Denoising Diffusion Probabilistic Models
-    - title: MSc
-      institution: Moscow Institute of Physics and Technology
-      year: 2017 — 2019
-      description: Data Analysis
-      Thesis title — Use of Domain Adaptation to expand the scope of Generative Models
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: PhD
+#       institution: Queen Mary University of London, London, United Kingdom
+#       year: Nov. 2022 - present
+#       description: DeepMind Studentship
+#       Thesis title — Semantic Control in Denoising Diffusion Probabilistic Models
+#     - title: MSc
+#       institution: Moscow Institute of Physics and Technology
+#       year: 2017 — 2019
+#       description: Data Analysis
+#       Thesis title — Use of Domain Adaptation to expand the scope of Generative Models
 
 - title: Experience
   type: time_table
