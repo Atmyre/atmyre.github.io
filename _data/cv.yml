@@ -8,6 +8,21 @@
 #       value: 14th March 1879
     - name: Languages
       value: English, Russian
+      
+  - title: Academic Interests
+  type: nested_list
+  type: list
+  contents:
+    - Computer vision, diffusion models, explainability, structure representation, knowledge extraction
+#   contents:
+#     - title: Topic 1.
+#       items: 
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Education
   type: time_table
@@ -77,17 +92,6 @@
       items: 
         - Max Planck Medal
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list
