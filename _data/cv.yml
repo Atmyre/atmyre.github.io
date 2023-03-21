@@ -16,18 +16,21 @@
   type: time_table
   contents:
     - title: PhD
-      institution: Queen Mary University of London, London, United Kingdom
-      year: 2022 - present
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - DeepMind studentship
-        - Supervised by Prof. [Gregory Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/) and Dr. [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html)
-#         - Thesis title: Semantic Control in Denoising Diffusion Probabilistic Models
-    - title: M.Sc.
-      institution: Moscow Institute of Physics and Technology, Moscow, Russia
-      year: 2017-2019
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - Department of Innovations and High Technology
-#         - Thesis title: Use of Domain Adaptation to expand the scope of Generative Models
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
