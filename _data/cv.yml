@@ -33,13 +33,13 @@
       description:
         - DeepMind studentship
         - Supervised by Prof. [Gregory Slabaugh](https://www.eecs.qmul.ac.uk/~gslabaugh/) and Dr. [Martin Benning](https://www.qmul.ac.uk/maths/profiles/benningmartin.html)
-        - Thesis title: Semantic Control in Denoising Diffusion Probabilistic Models
+#         - Thesis title: Semantic Control in Denoising Diffusion Probabilistic Models
     - title: M.Sc.
       institution: Moscow Institute of Physics and Technology, Moscow, Russia
       year: 2017-2019
       description:
         - Department of Innovations and High Technology
-        - Thesis title: Use of Domain Adaptation to expand the scope of Generative Models
+#         - Thesis title: Use of Domain Adaptation to expand the scope of Generative Models
 
 - title: Experience
   type: time_table
