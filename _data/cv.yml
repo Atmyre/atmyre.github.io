@@ -76,25 +76,41 @@
       descr: Specialized in mathematics and machine learning
       thesis_title: Multi-Objective Deep Reinforcement Learning in Seq2Seq Machine Translation
 
-- title: Open Source Projects
+- title: Research Publications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2020 
+      descr: Maxim Borisyak, <i>Tatiana Gaintseva</i>, and Andrey Ustyuzhanin, <a href="https://peerj.com/articles/cs-274/">Adaptive divergence for rapid adversarial optimization</a>. (2020). PeerJ Computer Science, 6, e274. 
 
-- title: Honors and Awards
+- title: Teaching
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: Methodologist and Lecturer
+      institution: <a href="https://teach-in.ru/course/introduction-to-dl-neychev">Deep Learning Course</a>, Moscow State University (MSU)
+      year: 2022 — present
+      descr: One of the two methodologists and a lecturer
+      
+    - title: Teaching Assistant
+      institution: <a href="https://academy.yandex.com/dataschool/">Yandex School of Data Analysis</a>
+      year: 2019 — present
+      descr: Leading seminars, preparing and reviewing students’ homeworks on deep learning class
+      
+    - title: Lecturer and methodologist 
+      institution: <a href="https://stepik.org/course/125587">Open Machine Learning Course</a>
+      year: 2022
+      descr: This is an online free course on machine learning fundamentals. I was designing a methodology and preparing lectures for some topics.
+      
+    - title: Lecturer and methodologist 
+      institution: <a href="https://maths-h.com">Mathshub</a>
+      year: 2020 — 2022
+      descr: I was a main methodologist and lecturer of computer vision fundamentals part of the course.
+      
+    - title: Lecturer and methodologist 
+      institution: <a href="https://practicingfutures.org">Pacticing Futures</a>
+      year: 2020 — 2022
+      descr: During three years, I was designing multiple courses organized by Practicing Futures, and giving lectures on various deep learning topics
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+# - title: Competitions and Awards
+#   type: time_table
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
