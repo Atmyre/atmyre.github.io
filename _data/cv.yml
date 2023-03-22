@@ -6,7 +6,7 @@
     - name: Languages
       value: English, Russian
       
-  - title: Academic Interests
+- title: Academic Interests
   type: list
   contents:
     - Computer vision, diffusion models, explainability, structure representation, knowledge extraction
