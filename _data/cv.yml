@@ -19,7 +19,7 @@
     - title: Founding member, methodologist and lecturer
       institution: <a href="https://dls.samcs.ru">Deep Learning School</a>
       year: Sep 2018 - present
-      descr: DLSchool is a non-profit organization that provides free online courses on AI fundamentails. It has over 4.000 learners every year. It's alumnus work in major institutions and companies, such as Stanford University, Moscow Institute of Physics and Technology and more.  
+#       descr: DLSchool is a non-profit organization that provides free online courses on AI fundamentails. It has over 4.000 learners every year. It's alumnus work in major institutions and companies, such as Stanford University, Moscow Institute of Physics and Technology and more.  
       description:
         - I am one of the founding members of the school. Since the beginning, I lead a team that designes the methodology of the course and prepares lectures.
         - I give lectures on various AI topics. These lectures have over 
