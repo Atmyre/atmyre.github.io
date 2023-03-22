@@ -25,21 +25,20 @@
     - title: Data & AI Scientist
       institution: Philips Innovation Labs RUS
       year: Jul 2021 — Jun 2022
-      description: 
-        - Worked on developing novel AI tecnhiques for the software of the medical equipment that Philips procuses. 
-        - Was a founder and a manager of scientific reading club, where people gather weekly to discuss recent advances in the field of AI for medicine. 
+      descr: I worked on developing novel AI-based tecnhiques for the software of the medical equipment that Philips procuses. 
+      descr_one: I was also a founder and a manager of scientific reading club, where people gather weekly to discuss recent advances in the field of AI for medicine. 
 
     - title: AI Researcher
       institution: Huawei Rusian Research Institute
       year: Jan 2020 — Jun 2021
-      description: 
-        - Leading a group that conducted research in the area of AI-based face recognition. We managed to raise performance of an AI pipeline by 2.5%.
-        - Managing a Huawei-MIPT colaboration on the task of developing domain adaptation techniques for AI-based face recognition. I reviewed the work of MIPT group and managed communications.
+      descr: I was leading a group that conducted research in the area of AI-based face recognition. We managed to raise performance of an AI pipeline by 2.5%.
+      descr_one: I was also managing a Huawei-MIPT colaboration on the task of developing domain adaptation techniques for AI-based face recognition. I reviewed the work of MIPT group and managed communications.
         
     - title: AI Researcher 
       institution: <a href="https://getrealprice.com">GetRealPrice</a>
       year: Nov 2018 — Jul 2021
-      descr: GetRealPrice is an ICT company that developes a B2B SaaS platform for monitoring e-commerce prices and performing product matching. The platform uses Big Data and AI algorithms to find similar products between different e-Commerce shops for further processing. I was doing a research on AI techniques for the company business products. Models developed during this research resulted in substantial revenue for the company.
+      descr: GetRealPrice is an ICT company that developes a B2B SaaS platform for monitoring e-commerce prices and performing product matching. The platform uses Big Data and AI algorithms to find similar products between different e-Commerce shops for further processing. 
+      descr_one: I was doing a research on AI techniques for the company business products. Models developed during this research resulted in substantial revenue for the company. I was also managing a group of researchers on one of the projects
 
 # - title: Education
 #   type: time_table
