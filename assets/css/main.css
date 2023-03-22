@@ -106,12 +106,7 @@ h2,
 h3,
 h4,
 h5,
-h6 {
-  display: inline-block;
-  vertical-align: baseline;
-}
-
-em,
+h6 em,
 div,
 li,
 span,
