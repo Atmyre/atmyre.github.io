@@ -7,7 +7,6 @@
       value: English, Russian
       
   - title: Academic Interests
-  type: nested_list
   type: list
   contents:
     - Computer vision, diffusion models, explainability, structure representation, knowledge extraction
