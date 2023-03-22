@@ -19,6 +19,9 @@
             {% if content.descr %}
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.descr}}</h6>
             {% endif %}
+            {% if content.descr_one %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.descr_one}}</h6>
+            {% endif %}
             {% if content.description %}
               <ul class="items">
                 {% for item in content.description %}
