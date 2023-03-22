@@ -3,6 +3,8 @@
   contents:
     - name: Full Name
       value: Tatiana Gaintseva
+    - name: Title
+      value: AI Researcher
     - name: Languages
       value: English, Russian
       
@@ -18,6 +20,7 @@
       institution: <a href="https://dls.samcs.ru">Deep Learning School</a>
       year: Sep 2018 - present
       description:
+        DLSchool is a non-profit organization that provides free online courses on AI fundamentails. It has over 4.000 learners every year. It's alumnus work in major institutions and companies, such as Stanford University, Moscow Institute of Physics and Technology and more.  
         - Was one of the founding members of the school. Lead a team that designes the methodology of the course and prepares lectures.
         - Give lectures on various AI topics
         
@@ -33,7 +36,13 @@
       year: Jan 2020 — Jun 2021
       description: 
         - Lead a group that conducted research in the area of AI-based face recognition. Raised AI pipeline performance by 2.5%.
-        - Managed a Huawei-MIPT colaboration on the task of developing domain adaptation techniques for AI-based face recognition. Reviewed the work of MIPT group and managed communications. 
+        - Managed a Huawei-MIPT colaboration on the task of developing domain adaptation techniques for AI-based face recognition. Reviewed the work of MIPT group and managed communications.
+        
+   - title: AI Researcher 
+      institution: <a href="https://getrealprice.com">GetRealPrice</a>
+      year: Nov 2018 — Jul 2021
+      description: 
+        - 
 
     
 
