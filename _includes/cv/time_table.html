@@ -11,11 +11,11 @@
           {% endif %}
           <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
             {% if content.title %}
-            <a class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</a>
+            <div> <a class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</a>, <a class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.institution}}</a> </div>  
             {% endif %}
-            {% if content.institution %} 
+<!--             {% if content.institution %} 
             <a class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.institution}}</a> 
-            {% endif %} 
+            {% endif %}  -->
             {% if content.descr %}
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.descr}}</h6>
             {% endif %}
