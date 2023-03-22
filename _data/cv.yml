@@ -19,32 +19,25 @@
     - title: Founding member, methodologist and lecturer
       institution: <a href="https://dls.samcs.ru">Deep Learning School</a>
       year: Sep 2018 - present
-#       descr: DLSchool is a non-profit organization that provides free online courses on AI fundamentails. It has over 4.000 learners every year. It's alumnus work in major institutions and companies, such as Stanford University, Moscow Institute of Physics and Technology and more.  
-      description:
-        - I am one of the founding members of the school. Since the beginning, I lead a team that designes the methodology of the course and prepares lectures.
-        - I give lectures on various AI topics. These lectures have over 
+      descr: DLSchool is a non-profit organization that provides free online courses on AI fundamentails. It has over 4.000 learners every year. It's alumnus work in major institutions and companies, such as Stanford University, Moscow Institute of Physics and Technology and more. I am one of the founding members of the school. Since the beginning, I lead a team that designes the methodology of the course and prepares lectures. I also give lectures on various AI topics. These lectures have over 
         
     - title: Data & AI Scientist
       institution: Philips Innovation Labs RUS
       year: Jul 2021 — Jun 2022
-      description:
-        - Worked on designing AI tools for medical equipment sotware. 
-        - Was a founder and a manager of scientific reading club. People in this club gather together weekly to discuss recent advances in the field of AI for medicine 
+      descr: Philips is a company that is currently focused on the area of health technology. Innovation Labs is it's department that is focused on searching for innovative solutions for the company's products. I was part of the research lab which focused on developing novel AI tecnhiques for the software of the Philips medical equipment products. I was also a founder and a manager of scientific reading club. People in this club gather together weekly to discuss recent advances in the field of AI for medicine 
 
     - title: AI Researcher
       institution: Huawei Rusian Research Institute
       year: Jan 2020 — Jun 2021
+      descr: Huawei Rusian Research Institute is an organization which is focused on research in the field of AI and Mathematics. I was a part of a group that was doing research for vision tasks. <y responsibilities included:
       description: 
-        - Lead a group that conducted research in the area of AI-based face recognition. Raised AI pipeline performance by 2.5%.
-        - Managed a Huawei-MIPT colaboration on the task of developing domain adaptation techniques for AI-based face recognition. Reviewed the work of MIPT group and managed communications.
+        - Leading a group that conducted research in the area of AI-based face recognition. We managed to raise performance of an AI pipeline by 2.5%.
+        - Managing a Huawei-MIPT colaboration on the task of developing domain adaptation techniques for AI-based face recognition. I reviewed the work of MIPT group and managed communications.
         
    - title: AI Researcher 
       institution: <a href="https://getrealprice.com">GetRealPrice</a>
       year: Nov 2018 — Jul 2021
-      description: 
-        - 
-
-    
+      descr: GetRealPrice is an ICT company that developes a B2B SaaS platform for monitoring e-commerce prices and performing product matching. The platform uses Big Data and AI algorithms to find similar products between different e-Commerce shops for further processing. I was doing a research on AI techniques for the company business products. Models developed during this research resulted in substantial revenue for the company.
 
 # - title: Education
 #   type: time_table
