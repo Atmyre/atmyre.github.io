@@ -281,7 +281,7 @@ blockquote {
 .navbar.navbar-light .navbar-brand.social {
   padding-bottom: 0;
   padding-top: 0;
-  font-size: 1.3rem;
+  font-size: 1rem;
 }
 .navbar.navbar-light .navbar-brand.social a i::before {
   color: var(--global-text-color);
