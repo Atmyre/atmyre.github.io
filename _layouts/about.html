@@ -10,7 +10,19 @@ layout: default
           </h1>
           <p class="desc"><b>AI Researcher </b>, PhD @ Digital Environment Research Institute, Queen Mary University of London</p>
           <p><i class="fa fa-map-marker"></i> London, United Kingdom</p>
+              
+          <!-- Social -->
+          {%- if page.social %}
+            <div class="social">
+              <div class="contact-icons">
+                {% include social.html %}
+              </div>
+              
+            </div>
+          {%- endif %}
         </header>
+            
+         
             
 
         <article>
@@ -52,16 +64,6 @@ layout: default
           {% if page.selected_papers -%}
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
             {%- include selected_papers.html %}
-          {%- endif %}
-              
-        <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-              
-            </div>
           {%- endif %}
               
         </article>
