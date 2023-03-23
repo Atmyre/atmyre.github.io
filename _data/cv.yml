@@ -87,8 +87,8 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Methodologist and Lecturer
-      institution: <a href="https://teach-in.ru/course/introduction-to-dl-neychev">Deep Learning Course</a>, Moscow State University (MSU)
+    - title: Lecturer and methodologist
+      institution: <a href="https://teach-in.ru/course/introduction-to-dl-neychev">Deep Learning Course</a>, Moscow State University 
       year: 2022 — present
       descr: One of the two methodologists and a lecturer
       
@@ -112,7 +112,23 @@
       year: 2020 — 2022
       descr: During three years, I was designing multiple courses organized by Practicing Futures, and giving lectures on various deep learning topics
 
-# - title: Competitions and Awards
-#   type: time_table
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Competitions and Awards
+  type: time_table
+  contents:
+    - title: <a href="https://www.deepmind.com/education">DeepMind Studentship</a> 
+      institution: PhD, Queen Mary University of London
+    - title: <a href="https://competition.machinescansee.com/">MCS 2019 competition</a> 
+      institution: organized by <a href="https://visionlabs.ai/">VisionLabs</a> 
+      descr: <i>3rd place</i>
+      descr_one: I was a part of a team that developed solution for competition on face recognition. <a href="https://gitlab.com/mcs2019/test-team/">Code on GitLab</a> 
+    - title: <a href="https://competitions.codalab.org/competitions/19090">MCS 2018 competition</a> 
+      institution: organized by <a href="https://visionlabs.ai/">VisionLabs</a> 
+      descr: <i>2nd place</i>
+      descr_one: I was a part of a team that developed solution for competition on black-box adversarial attacks. <a href="https://github.com/Atmyre/MCS2018_Solution">Code on GitHub</a> 
+    - title: Mood Map Project
+      institution: Local Hack Day Hackathon, Moscow, Russia
+      descr: <i>winner</i>
+      descr_one: I was part of a team that developed a service that shows mood map of the city using Twitter and Yandex Maps APIs. <a href="https://devpost.com/software/mood-map-awp1f5">Project on Devpost</a> 
+    - title: HashCode Finals
+      institution: Google Paris
+      descr: <i>19th place</i>
