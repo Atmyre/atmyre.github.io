@@ -63,12 +63,12 @@
       institution: Moscow Institute of Physics and Technology (MIPT)
       year: 2017 — 2019
       descr: Specialized in machine learning and data analysis.
+      descr_one: <i>GPA 7.1/10</i>
       thesis_title: Use of Domain Adaptation to expand the scope of Generative Models
     
     - title: Master's level program
       institution: Yandex School of Data Analysis (YSDA)
       year: 2018 — 2020
-      descr_one: <i>GPA 7.1/10</i>
       descr: Took courses on machine learning, different aspects of deep learning, applied statistics and big data.
       
     - title: BSc
