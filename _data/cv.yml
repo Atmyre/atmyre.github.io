@@ -68,12 +68,14 @@
     - title: Master's level program
       institution: Yandex School of Data Analysis (YSDA)
       year: 2018 — 2020
+      descr_one: <i>GPA 7.1/10</i>
       descr: Took courses on machine learning, different aspects of deep learning, applied statistics and big data.
       
     - title: BSc
       institution: Moscow Institute of Physics and Technology (MIPT)
       year: 2013 — 2017
       descr: Specialized in mathematics and machine learning
+      descr_one: <i>GPA 8.4/10, magna cum laude</i>
       thesis_title: Multi-Objective Deep Reinforcement Learning in Seq2Seq Machine Translation
 
 - title: Research Publications
@@ -90,7 +92,7 @@
     - title: Lecturer and methodologist
       institution: <a href="https://teach-in.ru/course/introduction-to-dl-neychev">Deep Learning Course</a>, Moscow State University 
       year: 2022 — present
-      descr: One of the two methodologists and a lecturer
+      descr: Main methodologists and a lecturer
       
     - title: Teaching Assistant
       institution: <a href="https://academy.yandex.com/dataschool/">Yandex School of Data Analysis</a>
