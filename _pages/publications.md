@@ -20,16 +20,12 @@ nav_order: 1
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+      {% include selected_papers.html %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+    {% include selected_papers.html %}
   </div>
   {%- endif -%}
   {% endfor %}
@@ -41,16 +37,12 @@ nav_order: 1
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+    {% include selected_papers.html %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+    {% include selected_papers.html %}
   </div>
   {%- endif -%}
 {%- endif -%}
