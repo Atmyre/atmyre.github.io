@@ -151,7 +151,7 @@
       year: Nov 2021
       descr: <i>13k views</i>
       descr_one: The article tells what inductive bias is, what types of inductive biases there are in machine learning algorithms and in neural networks
-    - title: <a href="https://trends.rbc.ru/trends/industry/6050ac809a794712e5ef39b7">Face recognition: how it works</a> 
+    - title: <a href="https://trends.rbc.ru/trends/industry/6050ac809a794712e5ef39b7">Face recognition&#58; how it works</a> 
       institution: article on RBC Trands
       year: Mar 2021
       descr: The article is about tech details of AI-based face recognition pipeline and how face recognition models are used in the world.
@@ -164,11 +164,11 @@
     - title: <a href="https://www.youtube.com/live/zNTRmIoPLns?feature=share&t=72">Yandex ML Training</a> 
       institution: public talk
       year: Jul 2018
-      descr: A public talk about technical details of AI-based solution of MCS 2018 competition (2nd place) <a href="https://competitions.codalab.org/competitions/19090">Competition page</a> 
+      descr: A public talk about technical details of AI-based solution of MCS 2018 competition (2nd place). <a href="https://competitions.codalab.org/competitions/19090">Competition page</a> 
       descr_one: <i>1.4k views</i>
     - title: <a href="https://www.youtube.com/live/cSrc1gCOsTw?feature=share&t=9740">Machines Can See 2018</a> 
       institution: conference talk
       year: Jun 2018
-      descr: An oral talk about technical details of AI-based solution of MCS 2018 competition (2nd place) <a href="https://competitions.codalab.org/competitions/19090">Competition page</a> 
+      descr: An oral talk about technical details of AI-based solution of MCS 2018 competition (2nd place). <a href="https://competitions.codalab.org/competitions/19090">Competition page</a> 
       descr_one: <i>over 2.5k views in total (online and offline)</i>
     
