@@ -1,17 +1,22 @@
             {%- if site.email -%}
-            <a href="mailto:{{ site.email | encode_email }}" title="email"><i class="fas fa-envelope"></i></a>
+            <i class="fas fa-envelope"></i><a href="mailto:{{ site.email | encode_email }}" title="email">email</a>
+            <br>
             {% endif %}
             {%- if site.telegram_username -%}
-            <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram"><i class="fab fa-telegram"></i></a>
+            <i class="fab fa-telegram"></i><a href="https://telegram.me/{{ site.telegram_username }}" title="telegram">Telegram</a>
+            <br>
             {% endif %}
             {%- if site.whatsapp_number -%}
-            <a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp"><i class="fab fa-whatsapp"></i></a>
+            <i class="fab fa-whatsapp"></i><a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp">WhatsApp</a>
+            <br>
             {% endif %}
             {%- if site.orcid_id -%}
             <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
+            <br>
             {% endif %}
             {%- if site.scholar_userid -%}
-            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+            <i class="ai ai-google-scholar"></i><a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar">Scholar</a>
+            <br>
             {% endif %}
             {%- if site.semanticscholar_id -%}
             <a href="https://www.semanticscholar.org/author/{{ site.semanticscholar_id }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
