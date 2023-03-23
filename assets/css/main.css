@@ -334,10 +334,10 @@ blockquote {
 }
 
 .social {
-  text-align: center;
+  text-align: left;
 }
 .social .contact-icons {
-  font-size: 3rem;
+  font-size: 1.5rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
