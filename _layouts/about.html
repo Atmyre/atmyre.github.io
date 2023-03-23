@@ -11,7 +11,7 @@ layout: default
           <p class="desc"><b>AI Researcher </b>, PhD @ Digital Environment Research Institute, Queen Mary University of London</p>
           <p><i class="fa fa-map-marker"></i> London, United Kingdom</p>
               
-          <!-- Social -->
+<!--           <!-- Social -->
           {%- if page.social %}
             <div class="social">
               <div class="contact-icons">
@@ -19,7 +19,7 @@ layout: default
               </div>
               
             </div>
-          {%- endif %}
+          {%- endif %} -->
         </header>
             
          
@@ -47,6 +47,7 @@ layout: default
               {{ page.profile.address }}
             </div>
             {%- endif %}
+            {% include social.html %}
           </div>
           {%- endif %}
 
