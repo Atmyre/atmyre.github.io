@@ -11,7 +11,7 @@
           {% endif %}
           <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
             {% if content.title %}
-            <a class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</a> <a style="font-size: 0.95rem;">, {{content.institution}}</a> <br><br>  
+            <a class="title font-weight-bold ml-1 ml-md-4">{{content.title}}</a> <a style="font-size: 0.95rem;">, <i>{{content.institution}}</i></a> <br><br>  
             {% endif %}
 <!--             {% if content.institution %} 
             <a class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.institution}}</a> 
@@ -23,7 +23,7 @@
             <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem;">{{content.descr_one}}</h6>
             {% endif %}
             {% if content.thesis_title %}
-            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; italic">{{content.thesis_title}}</h6>
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; italic"><b>Thesis title:</b> {{content.thesis_title}}</h6>
             {% endif %}
             {% if content.description %}
               <ul class="items">
