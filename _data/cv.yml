@@ -80,7 +80,9 @@
   type: time_table
   contents:
     - year: 2020 
-      descr: Maxim Borisyak, <i>Tatiana Gaintseva</i>, and Andrey Ustyuzhanin, <a href="https://peerj.com/articles/cs-274/">Adaptive divergence for rapid adversarial optimization</a>. (2020). PeerJ Computer Science, 6, e274. 
+      descr: Maxim Borisyak, <u><i>Tatiana Gaintseva</i></u>, and Andrey Ustyuzhanin, <a href="https://peerj.com/articles/cs-274/">Adaptive divergence for rapid adversarial optimization</a>. (2020). PeerJ Computer Science, 6, e274.
+    - year: 2020 
+      descr: Constantin Weisser, Daniel Craik, <u><i>Tatiana Gaintseva</i></u>, Artem Ryzhikov, Andrey Ustyuzhanin, Mike Williams, <a href="https://slideslive.com/38926198/autoencoders-for-compression-and-simulation-in-particle-physics">Autoencoders for Compression and Simulation in Particle Physics</a>. ICLR FSAI 2020 
 
 - title: Teaching
   type: time_table
