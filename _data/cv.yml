@@ -125,7 +125,7 @@
       descr: <i>3rd place</i>
       year: Jun 2019
       descr_one: I was a part of a team that developed solution for competition on face recognition. <a href="https://gitlab.com/mcs2019/test-team/">Code on GitLab</a> 
-    - title: <a href="https://competitions.codalab.org/competitions/19090">MCS 2018 competition</a> 
+    - title: <a class="font-weight-bold" href="https://competitions.codalab.org/competitions/19090">MCS 2018 competition</a> 
       institution: organized by <a href="https://visionlabs.ai/">VisionLabs</a> 
       descr: <i>2nd place</i>
       year: Jun 2018
@@ -146,18 +146,18 @@
     - title: <a class="font-weight-bold" href="https://habr.com/ru/post/687646/">Structural representations in neural networks</a> 
       institution: article on habr.com
       year: Sep 2022
-      descr: <i>15k views</i>
-      descr_one: The article covers what structural representations is, why it is beneficial for neural networks and how to inject structural representations in them.
+      descr_one: <i>15k views</i>
+      descr: The article covers what structural representations is, why it is beneficial for neural networks and how to inject structural representations in them.
     - title: <a class="font-weight-bold" href="https://habr.com/ru/post/591779/">Inductive bias in neural networks</a> 
       institution: article on habr.com
       year: Nov 2021
-      descr: <i>13k views</i>
-      descr_one: The article tells what inductive bias is, what types of inductive biases there are in machine learning algorithms and in neural networks
+      descr_one: <i>13k views</i>
+      descr: The article tells what inductive bias is, what types of inductive biases there are in machine learning algorithms and in neural networks
     - title: <a class="font-weight-bold" href="https://trends.rbc.ru/trends/industry/6050ac809a794712e5ef39b7">Face recognition&#58; how it works</a> 
       institution: article on RBC Trands
       year: Mar 2021
       descr: The article is about tech details of AI-based face recognition pipeline and how face recognition models are used in the world.
-      descr_one: RBC is the large media in Russian language with 34 million monthly views
+      descr_one: <i>RBC is the large media in Russian language with 34 million monthly views</i>
     - title: <a class="font-weight-bold" href="https://www.youtube.com/live/zYGhHdFOoUY?feature=share&t=7221">Machines Can See 2019</a> 
       institution: conference talk
       year: Jun 2019
