@@ -17,13 +17,8 @@
 <!-- Side navigation -->
 <div class="sidenav">
     <div class="profile float-left">
-      {%- assign profile_image_path = page.profile.image | prepend: 'assets/img/' -%}
-
-      {% if page.profile.image_circular %}
-        {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
-      {% else %}
-        {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
-      {% endif %}
+      {%- assign profile_image_path = prof_pic.jpg | prepend: 'assets/img/' -%}
+      {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
 
       {% include figure.html 
       path=profile_image_path 
