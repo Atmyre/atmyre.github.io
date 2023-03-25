@@ -166,16 +166,6 @@ blockquote {
   text-align: center;
 }
 
-.sidenav {
-  height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 300px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  top: 56px; /* Stay at the top */
-  left: 5%;
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
-}
-
 .card {
   background-color: var(--global-card-bg-color);
 }
