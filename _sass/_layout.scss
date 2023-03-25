@@ -27,10 +27,12 @@ body.sticky-left-sidenav {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
+  width: 25%;
 }
 
 .container {
   max-width: $max-content-width;
+  width: 74%;
 }
 
 // Profile
