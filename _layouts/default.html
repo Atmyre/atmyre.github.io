@@ -12,34 +12,14 @@
 
 
   <!-- Body -->
-  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}">
-
-<!-- Side navigation -->
-<div class="sidenav">
-    <div class="profile float-left">
-
-      {% include figure.html 
-      path='assets/img/prof_pic.jpg' 
-      class="img-fluid z-depth-1 rounded-circle"
-      alt=prof_pic.jpg -%}
-
-    {%- if page.profile.address %}
-    <div class="address">
-      {{ page.profile.address }}
-    </div>
-    {%- endif %}
-      
-    <div class="social">
-    {% include social.html %}
-    </div>
-  </div>
-  
-
-</div>
+  <body class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}"
     
     
     <!-- Header -->
     {%- include header.html %}
+  
+    <!-- Side navigation -->
+    {%- include sidenav.html %}
 
     <!-- Content -->
     <div class="container mt-5">
