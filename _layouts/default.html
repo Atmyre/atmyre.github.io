@@ -19,19 +19,20 @@
     {%- include header.html %}
   
     <div class="container mt-5">
-    <div class="grid-container">
+    <div style="width:1000px;">
   
     <!-- Side navigation -->
-    <div class="grid-child">
+    <div style="width:200px; float:left;">
     {%- include sidenav.html %}
     </div>
       
     <!-- Content -->
-    <div class="grid-child">
+    <div style="width:600px; float:right;">
     {{ content }}
     </div>
       
     </div> 
+    <div style="clear: both;"></div>
     </div>
 
     <!-- Footer -->
