@@ -87,6 +87,11 @@ body.sticky-left-sidenav {
   padding-left: 300px;
 }
 
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
 .container {
   max-width: 1800px;
 }
