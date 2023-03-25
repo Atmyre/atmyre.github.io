@@ -4,6 +4,9 @@ title: about
 permalink: /
 subtitle: AI Researcher, PhD @ Digital Environment Research Institute, Queen Mary University of London
 
+profile:
+  image: prof_pic.jpg
+
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 
