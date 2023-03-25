@@ -369,6 +369,10 @@ sidenav.sticky-left {
   top: 0;
 }
 
+.inner_content {
+  padding-left: 100px;
+}
+
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
