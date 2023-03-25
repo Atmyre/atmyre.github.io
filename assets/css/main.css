@@ -86,9 +86,6 @@ body.sticky-bottom-footer {
 
 body.sidenav {
   position: sticky-left;
-  width: 100px;
-  display: inline-block;
-  z-index: 10;
 }
 
 .container {
