@@ -84,13 +84,11 @@ body.sticky-bottom-footer {
 }
 
 body.sidenav {
-  height: 100%; /* Full-height: remove this if you want "auto" height */
-  width: 300px; /* Set the width of the sidebar */
-  position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-  top: 56px; /* Stay at the top */
-  left: 5%;
-  overflow-x: hidden; /* Disable horizontal scroll */
-  padding-top: 20px;
+  position: relative;
+  float: right;
+  width: 300px;
+  margin-left: span(0.5 of 12);
+  z-index: 10;
 }
 
 .container {
