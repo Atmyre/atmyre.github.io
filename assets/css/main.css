@@ -357,6 +357,12 @@ blockquote {
   font-size: 0.8rem;
 }
 
+sidenav.sticky-left {
+  font-size: 1.5rem;
+  width: 25%;
+  height: 25vh;
+}
+
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
