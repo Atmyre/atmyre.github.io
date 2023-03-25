@@ -85,7 +85,7 @@ body.sticky-bottom-footer {
 
 .grid-container {
   display: grid;
-  grid-template-columns: 1fr 3fr;
+  grid-template-columns: 1fr 4fr;
   grid-gap: 20px;
   padding-left: 150px;
 }
