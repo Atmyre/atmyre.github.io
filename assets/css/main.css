@@ -84,6 +84,7 @@ body.sticky-bottom-footer {
 }
 
 .wrapper {
+  display: flex;
   padding-left: 150px;
 }
 
