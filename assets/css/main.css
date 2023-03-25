@@ -68,6 +68,7 @@ html[data-theme=dark] .repo-img-dark {
  ******************************************************************************/
 body {
   padding-bottom: 70px;
+  padding-left: 20%;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 }
@@ -170,7 +171,7 @@ blockquote {
   width: 20%; /* Set the width of the sidebar */
   position: fixed; /* Fixed Sidebar (stay in place on scroll) */
   z-index: 1; /* Stay on top */
-  top: 0; /* Stay at the top */
+  top: 56px; /* Stay at the top */
   left: 0;
   overflow-x: hidden; /* Disable horizontal scroll */
   padding-top: 20px;
