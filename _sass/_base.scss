@@ -327,13 +327,14 @@ blockquote {
 // Sidenav
 sidenav.sticky-left {
 //   border-top: 1px solid var(--global-divider-color);
-//   padding-top: 40px;
+  padding-top: 40px;
 //   padding-bottom: 40px;
   font-size: 1.5rem;
-  width: 100px;
-  height: 300px;
+  width: 200px;
+  height: 500px;
   position: -webkit-sticky;
   position: sticky;
+//   padding-left: 300px;
   top: 0;
 }
 
