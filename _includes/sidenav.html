@@ -1,5 +1,9 @@
 <sidenav class="sticky-left">
 
+  {% include figure.html 
+    path='assets/img/prof_pic.jpg' 
+    class="img-fluid z-depth-1 rounded-circle"
+    alt=prof_pic.jpg -%}
 
   {%- if page.profile.address %}
   <div class="address">
@@ -7,9 +11,7 @@
   </div>
   {%- endif %}
 
-  <div class="social">
-  {% include social.html %}
-  </div>
+
 
 </sidenav>
   
