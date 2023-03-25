@@ -360,9 +360,10 @@ blockquote {
 }
 
 sidenav.sticky-left {
+  padding-top: 40px;
   font-size: 1.5rem;
-  width: 100px;
-  height: 300px;
+  width: 200px;
+  height: 500px;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
