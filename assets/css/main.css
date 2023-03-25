@@ -83,13 +83,6 @@ body.sticky-bottom-footer {
   padding-bottom: 0;
 }
 
-body.sticky-left-sidenav {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  width: 25%;
-}
-
 .container {
   max-width: 1800px;
 }
