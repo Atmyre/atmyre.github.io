@@ -7,7 +7,6 @@ body {
   padding-left: 300px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
-  display:inline-block;
 
   h1, h2, h3, h4, h5, h6 {
     scroll-margin-top: 66px;
@@ -25,8 +24,9 @@ body.sticky-bottom-footer {
 }
 
 body.sticky-left-sidenav {
-  position: sticky-left;
-  display:inline-block;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
 
 .container {
