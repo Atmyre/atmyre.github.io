@@ -68,7 +68,6 @@ html[data-theme=dark] .repo-img-dark {
  ******************************************************************************/
 body {
   padding-bottom: 70px;
-  padding-left: 300px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
 }
