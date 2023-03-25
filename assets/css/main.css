@@ -71,6 +71,7 @@ body {
   padding-left: 300px;
   color: var(--global-text-color);
   background-color: var(--global-bg-color);
+  display: inline-block;
 }
 body h1, body h2, body h3, body h4, body h5, body h6 {
   scroll-margin-top: 66px;
@@ -86,7 +87,7 @@ body.sticky-bottom-footer {
 
 body.sticky-left-sidenav {
   position: sticky-left;
-  width: 100px;
+  display: inline-block;
 }
 
 .container {
