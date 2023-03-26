@@ -116,7 +116,8 @@ h2,
 h3,
 h4,
 h5,
-h6 em,
+h6,
+em,
 div,
 li,
 span,
@@ -221,7 +222,7 @@ blockquote {
 
 @media (min-width: 576px) {
   .profile {
-    width: 80%;
+    width: 30%;
   }
   .profile .address p {
     display: block;
@@ -290,9 +291,8 @@ blockquote {
 }
 .navbar.navbar-light .navbar-brand.social {
   padding-bottom: 0;
-  padding-left: 0;
   padding-top: 0;
-  font-size: 0.5rem;
+  font-size: 1.7rem;
 }
 .navbar.navbar-light .navbar-brand.social a i::before {
   color: var(--global-text-color);
@@ -344,10 +344,10 @@ blockquote {
 }
 
 .social {
-  text-align: middle;
+  text-align: center;
 }
 .social .contact-icons {
-  font-size: 1.5rem;
+  font-size: 4rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
@@ -358,20 +358,6 @@ blockquote {
 }
 .social .contact-note {
   font-size: 0.8rem;
-}
-
-sidenav.sticky-left {
-  padding-top: 40px;
-  font-size: 1.5rem;
-  width: 200px;
-  height: 500px;
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-}
-
-.inner_content {
-  padding-left: 500px;
 }
 
 footer.fixed-bottom {
