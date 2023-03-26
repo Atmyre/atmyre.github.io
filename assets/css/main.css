@@ -335,7 +335,9 @@ blockquote {
 
 .social {
   text-align: left;
-  padding-left: 10px;
+}
+.social .contact-icons {
+  font-size: 4rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
