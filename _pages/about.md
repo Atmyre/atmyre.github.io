@@ -23,7 +23,7 @@ My research interests mostly include computer vision, diffusion models, explaina
 
 Previously, I obtained my Bachelor's degree in Applied Mathematics from Moscow Institute of Physics and Technology (MIPT) and Master's degrees in Data Analysis from Moscow Institute of Physics and Technology and Yandex School of Data Analysis (YSDA). After graduation I worked as an AI researcher at Huawei Russian Research Institute and Philips Innovation Labs. 
 
-I have rich experience in teaching machine learning and deep learning courses. I am a founding member, methodologist and lecturer of Deep Learning School (MIPT). Additionally, I teach classes at Moscow State University, Moscow Institute of Physics and Technology and other places (visit 'teaching' page for more info). 
+I have rich experience in teaching machine learning and deep learning courses. I am a founding member, methodologist and lecturer of Deep Learning School (MIPT). Additionally, I teach classes at Moscow State University, Moscow Institute of Physics and Technology and other places.
 
 In my spare time a enjoy reading, walking, doing fitness, playing voleyball and spending time with friends. I am also really interested in neurobiology, phychology and connections between them and ideas of AI models. 
 
