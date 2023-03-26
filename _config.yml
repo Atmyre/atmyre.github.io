@@ -79,7 +79,7 @@ linkedin_username: tgaintseva # your LinkedIn user name
 telegram_username: atmyre # your Telegram user name
 scholar_userid: fYmtxNUAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
-whatsapp_number: +447597242185 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -98,7 +98,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: atmyre # your instagram id
+instagram_id: # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
