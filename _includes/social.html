@@ -1,21 +1,21 @@
             {%- if site.email -%}
-            <i class="fas fa-envelope" style="font-size:15px margin:10%"></i><a href="mailto:{{ site.email | encode_email }}" title="email" style="font-size:15px"> E-mail</a>
+            <a href="mailto:{{ site.email | encode_email }}" title="email" style="font-size:20px"><i class="fas fa-envelope" style="font-size:15px margin:10%"></i></a><a> E-mail</a>
             <br>
             {% endif %}
             {%- if site.telegram_username -%}
-            <i class="fab fa-telegram" style="font-size:15px"></i><a href="https://telegram.me/{{ site.telegram_username }}" title="telegram" style="font-size:15px"> Telegram</a>
+            <a href="https://telegram.me/{{ site.telegram_username }}" title="telegram" style="font-size:15px"><i class="fab fa-telegram" style="font-size:20px"></i></a><a> Telegram</a>
             <br>
             {% endif %}
             {%- if site.whatsapp_number -%}
-            <i class="fab fa-whatsapp" style="font-size:15px"></i><a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp" style="font-size:15px"> WhatsApp</a>
+            <i class="fab fa-whatsapp" style="font-size:20px"></i><a href="https://wa.me/{{ site.whatsapp_number }}" title="whatsapp" style="font-size:15px"> WhatsApp</a>
             <br>
             {% endif %}
             {%- if site.orcid_id -%}
-            <i class="ai ai-orcid" style="font-size:15px"></i><a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID" style="font-size:15px"> ORCHID</a>
+            <i class="ai ai-orcid" style="font-size:20px"></i><a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID" style="font-size:15px"> ORCHID</a>
             <br>
             {% endif %}
             {%- if site.scholar_userid -%}
-            <i class="ai ai-google-scholar" style="font-size:15px"></i><a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar" style="font-size:15px"> Scholar</a>
+            <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar" style="font-size:15px"><i class="ai ai-google-scholar" style="font-size:20px"></i></a><a> Scholar</a>
             <br>
             {% endif %}
             {%- if site.semanticscholar_id -%}
@@ -35,15 +35,15 @@
             <br>
             {% endif %}
             {%- if site.github_username -%}
-            <i class="fab fa-github" style="font-size:15px"></i><a href="https://github.com/{{ site.github_username }}" title="GitHub" style="font-size:15px"> GitHub</a>
+            <a href="https://github.com/{{ site.github_username }}" title="GitHub" style="font-size:15px"><i class="fab fa-github" style="font-size:20px"></i></a><a> GitHub</a>
             <br>
             {% endif %}
             {%- if site.linkedin_username -%}
-            <i class="fab fa-linkedin" style="font-size:15px"></i><a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn" style="font-size:15px"> Linkedin</a>
+            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}" title="LinkedIn" style="font-size:15px"><i class="fab fa-linkedin" style="font-size:20px"></i></a><a> Linkedin</a>
             <br>
             {% endif %}
             {%- if site.twitter_username -%}
-            <i class="fab fa-twitter" style="font-size:15px"></i><a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter" style="font-size:15px"> Twitter</a>
+            <a href="https://twitter.com/{{ site.twitter_username }}" title="Twitter" style="font-size:15px"><i class="fab fa-twitter" style="font-size:20px"></i></a><a> Twitter</a>
             <br>
             {% endif %}
             {%- if site.mastodon_username -%}
