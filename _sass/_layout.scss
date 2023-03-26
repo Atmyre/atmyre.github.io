@@ -24,12 +24,17 @@ body.sticky-bottom-footer {
 }
 
 .grid-container {
-//   display: flex;
+  display: flex;
 //   justify-content: flex-start;
-  display: grid;
-  grid-template-columns: 1fr 4fr;
-  grid-gap: 20px;
-//   padding-left: 150px;
+//   display: grid;
+//   grid-template-columns: 1fr 4fr;
+//   grid-gap: 20px;
+  padding-left: 150px;
+}
+
+.grid-child {
+  flex: 1 auto; 
+  border: 2px solid yellow;
 }
 
 .container {
