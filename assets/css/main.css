@@ -84,9 +84,13 @@ body.sticky-bottom-footer {
 }
 
 .grid-container {
-  display: grid;
-  grid-template-columns: 1fr 4fr;
-  grid-gap: 20px;
+  display: flex;
+  padding-left: 150px;
+}
+
+.grid-child {
+  flex: 1 auto;
+  border: 2px solid yellow;
 }
 
 .container {
