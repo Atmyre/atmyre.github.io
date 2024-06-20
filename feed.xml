@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://atmyre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://atmyre.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-03-26T17:29:42+00:00</updated><id>https://atmyre.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple portfolio of an AI researcher
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://atmyre.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://atmyre.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-06-20T16:43:44+00:00</updated><id>https://atmyre.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple portfolio of an AI researcher
 </subtitle><entry><title type="html">a post with giscus comments</title><link href="https://atmyre.github.io/blog/2022/giscus-comments/" rel="alternate" type="text/html" title="a post with giscus comments" /><published>2022-12-10T15:59:00+00:00</published><updated>2022-12-10T15:59:00+00:00</updated><id>https://atmyre.github.io/blog/2022/giscus-comments</id><content type="html" xml:base="https://atmyre.github.io/blog/2022/giscus-comments/"><![CDATA[<p>This post shows how to add GISCUS comments.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="external-services" /><summary type="html"><![CDATA[an example of a blog post with giscus comments]]></summary></entry><entry><title type="html">a post with redirect</title><link href="https://atmyre.github.io/blog/2022/redirect/" rel="alternate" type="text/html" title="a post with redirect" /><published>2022-02-01T17:39:00+00:00</published><updated>2022-02-01T17:39:00+00:00</updated><id>https://atmyre.github.io/blog/2022/redirect</id><content type="html" xml:base="https://atmyre.github.io/blog/2022/redirect/"><![CDATA[<p>Redirecting to another page.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[you can also redirect to assets like pdf]]></summary></entry><entry><title type="html">a distill-style blog post</title><link href="https://atmyre.github.io/blog/2021/distill/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2021-05-22T00:00:00+00:00</published><updated>2021-05-22T00:00:00+00:00</updated><id>https://atmyre.github.io/blog/2021/distill</id><content type="html" xml:base="https://atmyre.github.io/blog/2021/distill/"><![CDATA[<h2 id="equations">Equations</h2>
 
 <p>This theme supports rendering beautiful math in inline and display modes using <a href="https://www.mathjax.org/">MathJax 3</a> engine.
@@ -72,20 +72,20 @@ To generate the plot that you see above, you can use the following code snippet:
 <figure class="highlight"><pre><code class="language-python" data-lang="python"><span class="kn">import</span> <span class="n">pandas</span> <span class="k">as</span> <span class="n">pd</span>
 <span class="kn">import</span> <span class="n">plotly.express</span> <span class="k">as</span> <span class="n">px</span>
 <span class="n">df</span> <span class="o">=</span> <span class="n">pd</span><span class="p">.</span><span class="nf">read_csv</span><span class="p">(</span>
-  <span class="s">'https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv'</span>
+  <span class="sh">'</span><span class="s">https://raw.githubusercontent.com/plotly/datasets/master/earthquakes-23k.csv</span><span class="sh">'</span>
 <span class="p">)</span>
 <span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="p">.</span><span class="nf">density_mapbox</span><span class="p">(</span>
   <span class="n">df</span><span class="p">,</span>
-  <span class="n">lat</span><span class="o">=</span><span class="s">'Latitude'</span><span class="p">,</span>
-  <span class="n">lon</span><span class="o">=</span><span class="s">'Longitude'</span><span class="p">,</span>
-  <span class="n">z</span><span class="o">=</span><span class="s">'Magnitude'</span><span class="p">,</span>
+  <span class="n">lat</span><span class="o">=</span><span class="sh">'</span><span class="s">Latitude</span><span class="sh">'</span><span class="p">,</span>
+  <span class="n">lon</span><span class="o">=</span><span class="sh">'</span><span class="s">Longitude</span><span class="sh">'</span><span class="p">,</span>
+  <span class="n">z</span><span class="o">=</span><span class="sh">'</span><span class="s">Magnitude</span><span class="sh">'</span><span class="p">,</span>
   <span class="n">radius</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
   <span class="n">center</span><span class="o">=</span><span class="nf">dict</span><span class="p">(</span><span class="n">lat</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">lon</span><span class="o">=</span><span class="mi">180</span><span class="p">),</span>
   <span class="n">zoom</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span>
-  <span class="n">mapbox_style</span><span class="o">=</span><span class="s">"stamen-terrain"</span><span class="p">,</span>
+  <span class="n">mapbox_style</span><span class="o">=</span><span class="sh">"</span><span class="s">stamen-terrain</span><span class="sh">"</span><span class="p">,</span>
 <span class="p">)</span>
 <span class="n">fig</span><span class="p">.</span><span class="nf">show</span><span class="p">()</span>
-<span class="n">fig</span><span class="p">.</span><span class="nf">write_html</span><span class="p">(</span><span class="s">'assets/plotly/demo.html'</span><span class="p">)</span></code></pre></figure>
+<span class="n">fig</span><span class="p">.</span><span class="nf">write_html</span><span class="p">(</span><span class="sh">'</span><span class="s">assets/plotly/demo.html</span><span class="sh">'</span><span class="p">)</span></code></pre></figure>
 
 <hr />
 
@@ -198,7 +198,7 @@ example.com (but not on Github, for example).</p>
 <span class="nf">alert</span><span class="p">(</span><span class="nx">s</span><span class="p">);</span>
 </code></pre></div></div>
 
-<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">s</span> <span class="o">=</span> <span class="s">"Python syntax highlighting"</span>
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="n">s</span> <span class="o">=</span> <span class="sh">"</span><span class="s">Python syntax highlighting</span><span class="sh">"</span>
 <span class="k">print</span> <span class="n">s</span>
 </code></pre></div></div>
 
